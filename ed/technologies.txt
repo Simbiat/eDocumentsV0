@@ -1,0 +1,9 @@
+VC11 vcredist_x64/86.exe (pre-requisite)
+Apache 2.4.9 x64 (apachelounge build)
+PHP 5.6.0b4 x64 (apachelounge build)
+MySQL 5.7.4m14 x64 (free community build)
+mod_security 2.8.0 x64 (apachelounge build)
+phpmyadmin 4.2.3 (optional for database management)
+mod_evasive
+OpenSSL 1.0.1h win64 (for test keys)
+TCPDF 6.0.089
